@@ -290,15 +290,15 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="src/resource.js"/>
-                <file name="src/app.js"/>
-                <file name="src/OverScene.js"/>
-                <file name="src/StartScene.js"/>
                 <file name="src/GameData.js"/>
+                <file name="src/CSV.js"/>
+                <file name="src/StartScene.js"/>
                 <file name="src/EffectSprite.js"/>
                 <file name="src/MineSprite.js"/>
                 <file name="src/CharaSprite.js"/>
                 <file name="src/PlayAudio.js"/>
                 <file name="src/PlayerPrefs.js"/>
+                <file name="src/OverScene.js"/>
                 <file name="src/PlayScene.js"/>
                 <file name="main.js"/>
 

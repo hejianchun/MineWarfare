@@ -1,0 +1,11 @@
+﻿id,move_animation,hp,spd,point
+100,guizi,1,192,1
+200,horse,2,240,5
+300,motorcycle,3,340,10
+400,car,3,240,30
+500,tank,3,260,60
+101,guizi,1,214,2
+201,horse,2,275,15
+301,motorcycle,3,384,20
+401,car,3,280,50
+501,tank,3,260,80
